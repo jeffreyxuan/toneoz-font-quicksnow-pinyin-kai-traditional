@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE15" format="2">
+  <unicode hex="FE15" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="529" y="1" />
+      <point x="563" y="-41" />
+      <point x="563" y="-85" />
+      <point x="538" y="-112" />
+      <point x="488" y="-112" />
+      <point x="456" y="-73" />
+      <point x="456" y="-29" />
+      <point x="482" y="1" />
+    </contour>
+    <contour>
+      <point x="470" y="609" type="line" />
+      <point x="470" y="626" />
+      <point x="515" y="627" />
+      <point x="557" y="608" />
+      <point x="557" y="595" type="qcurve" />
+      <point x="557" y="594" type="line" />
+      <point x="556" y="578" />
+      <point x="552" y="544" />
+      <point x="551" y="521" type="qcurve" />
+      <point x="539" y="126" type="line" />
+      <point x="539" y="75" type="line" />
+      <point x="539" y="67" />
+      <point x="509" y="67" />
+      <point x="479" y="79" />
+      <point x="479" y="89" type="qcurve" />
+      <point x="479" y="90" type="line" />
+      <point x="481" y="106" />
+      <point x="481" y="130" type="qcurve" />
+      <point x="475" y="526" type="line" />
+      <point x="475" y="576" />
+      <point x="470" y="607" type="qcurve" />
+    </contour>
+  </outline>
+</glyph>

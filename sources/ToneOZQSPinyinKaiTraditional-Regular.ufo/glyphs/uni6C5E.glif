@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni6C5E" format="2">
+  <unicode hex="6C5E" />
+  <advance width="1279" />
+  <outline>
+    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="30" yOffset="927" />
+    <component base="py_alphablet_o3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="338" yOffset="927" />
+    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="636" yOffset="927" />
+    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="921" yOffset="927" />
+    <component base="uni6C5E.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="127" yOffset="0" />
+  </outline>
+</glyph>

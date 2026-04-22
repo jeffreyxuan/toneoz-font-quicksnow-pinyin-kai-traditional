@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30A2" format="2">
+  <unicode hex="30A2" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="167" y="631" type="qcurve" />
+      <point x="167" y="639" />
+      <point x="190" y="639" />
+      <point x="215" y="630" />
+      <point x="222" y="630" type="qcurve" />
+      <point x="226" y="630" type="line" />
+      <point x="391" y="657" />
+      <point x="792" y="696" />
+      <point x="810" y="698" type="qcurve" />
+      <point x="815" y="698" type="line" />
+      <point x="842" y="698" />
+      <point x="858" y="670" type="qcurve" />
+      <point x="864" y="660" />
+      <point x="864" y="637" />
+      <point x="837" y="624" type="qcurve" />
+      <point x="831" y="621" />
+      <point x="771" y="572" />
+      <point x="598" y="444" />
+      <point x="531" y="406" type="qcurve" />
+      <point x="488" y="267" />
+      <point x="314" y="28" />
+      <point x="246" y="-25" type="qcurve" />
+      <point x="216" y="-48" />
+      <point x="194" y="-47" />
+      <point x="194" y="-20" />
+      <point x="233" y="15" />
+      <point x="307" y="108" />
+      <point x="348" y="171" type="qcurve" />
+      <point x="443" y="322" />
+      <point x="471" y="462" type="qcurve" />
+      <point x="471" y="466" type="line" />
+      <point x="471" y="491" />
+      <point x="453" y="511" />
+      <point x="453" y="518" type="qcurve" />
+      <point x="453" y="528" />
+      <point x="482" y="528" />
+      <point x="502" y="524" type="qcurve" />
+      <point x="551" y="515" />
+      <point x="551" y="488" type="qcurve" />
+      <point x="551" y="481" />
+      <point x="548" y="469" type="qcurve" />
+      <point x="652" y="551" />
+      <point x="740" y="633" type="qcurve" />
+      <point x="673" y="625" />
+      <point x="381" y="590" />
+      <point x="233" y="563" />
+      <point x="209" y="563" />
+      <point x="182" y="594" />
+      <point x="167" y="628" />
+    </contour>
+  </outline>
+</glyph>

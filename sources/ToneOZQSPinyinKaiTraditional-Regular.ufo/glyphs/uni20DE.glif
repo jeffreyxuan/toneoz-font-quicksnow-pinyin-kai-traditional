@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20DE" format="2">
+  <unicode hex="20DE" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="913" y="778" type="line" />
+      <point x="111" y="778" type="line" />
+      <point x="111" y="-25" type="line" />
+      <point x="913" y="-25" type="line" />
+    </contour>
+    <contour>
+      <point x="59" y="-76" type="line" />
+      <point x="59" y="829" type="line" />
+      <point x="965" y="829" type="line" />
+      <point x="965" y="-76" type="line" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20DD" format="2">
+  <unicode hex="20DD" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="390" y="-65" />
+      <point x="634" y="-65" />
+      <point x="835" y="54" />
+      <point x="953" y="254" />
+      <point x="953" y="498" />
+      <point x="835" y="698" />
+      <point x="634" y="817" />
+      <point x="390" y="817" />
+      <point x="189" y="698" />
+      <point x="71" y="498" />
+      <point x="71" y="254" />
+      <point x="189" y="54" />
+    </contour>
+    <contour>
+      <point x="512" y="-115" type="qcurve" />
+      <point x="377" y="-115" />
+      <point x="154" y="17" />
+      <point x="20" y="241" />
+      <point x="20" y="376" type="qcurve" />
+      <point x="20" y="512" />
+      <point x="154" y="734" />
+      <point x="377" y="867" />
+      <point x="512" y="867" type="qcurve" />
+      <point x="648" y="867" />
+      <point x="870" y="734" />
+      <point x="1004" y="512" />
+      <point x="1004" y="376" type="qcurve" />
+      <point x="1004" y="241" />
+      <point x="870" y="17" />
+      <point x="648" y="-115" />
+    </contour>
+  </outline>
+</glyph>

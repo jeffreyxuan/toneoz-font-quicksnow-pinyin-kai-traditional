@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni673C" format="2">
+  <unicode hex="673C" />
+  <advance width="1024" />
+  <outline>
+    <component base="py_alphablet_b" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="305" yOffset="927" />
+    <component base="py_alphablet_i3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="604" yOffset="927" />
+    <component base="uni673C.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
+  </outline>
+</glyph>

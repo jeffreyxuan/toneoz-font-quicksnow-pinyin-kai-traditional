@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>familyName</key>
+	<string>Êæ≥ËÅ≤ÈÄöÂø´Èõ™ÊãºÈü≥Ê•∑È´îÁπÅ</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>ascender</key>
+	<integer>1450</integer>
+	<key>descender</key>
+	<integer>-280</integer>
+	<key>openTypeHeadCreated</key>
+	<string>1970/01/01 00:00:00</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>xHeight</key>
+	<integer>408</integer>
+	<key>capHeight</key>
+	<integer>610</integer>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>underlinePosition</key>
+	<integer>-610</integer>
+	<key>underlineThickness</key>
+	<integer>50</integer>
+</dict>
+</plist>

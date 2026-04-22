@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="openbullet" format="2">
+  <unicode hex="25E6" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="603" y="350" />
+      <point x="603" y="424" />
+      <point x="549" y="478" />
+      <point x="475" y="478" />
+      <point x="421" y="424" />
+      <point x="421" y="350" />
+      <point x="475" y="296" />
+      <point x="549" y="296" />
+    </contour>
+    <contour>
+      <point x="611" y="486" />
+      <point x="649" y="425" />
+      <point x="649" y="350" />
+      <point x="611" y="288" />
+      <point x="550" y="250" />
+      <point x="475" y="250" />
+      <point x="413" y="288" />
+      <point x="375" y="350" />
+      <point x="375" y="425" />
+      <point x="413" y="486" />
+      <point x="475" y="524" />
+      <point x="550" y="524" />
+    </contour>
+  </outline>
+</glyph>

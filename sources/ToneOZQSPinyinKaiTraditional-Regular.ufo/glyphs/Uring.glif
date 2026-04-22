@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <unicode hex="016E" />
+  <advance width="727" />
+  <outline>
+    <contour>
+      <point x="185" y="696" type="qcurve" />
+      <point x="183" y="598" type="line" />
+      <point x="183" y="215" type="line" />
+      <point x="183" y="122" />
+      <point x="270" y="46" />
+      <point x="351" y="46" type="qcurve" />
+      <point x="408" y="46" />
+      <point x="497" y="98" />
+      <point x="547" y="189" />
+      <point x="547" y="248" type="qcurve" />
+      <point x="547" y="609" type="line" />
+      <point x="544" y="714" type="line" />
+      <point x="544" y="726" />
+      <point x="587" y="726" />
+      <point x="623" y="712" />
+      <point x="623" y="698" type="qcurve" />
+      <point x="621" y="608" type="line" />
+      <point x="621" y="236" type="line" />
+      <point x="621" y="160" />
+      <point x="553" y="45" />
+      <point x="432" y="-18" />
+      <point x="351" y="-18" type="qcurve" />
+      <point x="109" y="-18" />
+      <point x="110" y="203" type="qcurve" />
+      <point x="110" y="600" type="line" />
+      <point x="106" y="712" type="line" />
+      <point x="106" y="724" />
+      <point x="150" y="724" />
+      <point x="185" y="709" />
+    </contour>
+    <contour>
+      <point x="395" y="787" />
+      <point x="422" y="815" />
+      <point x="422" y="855" />
+      <point x="395" y="882" />
+      <point x="355" y="882" />
+      <point x="328" y="855" />
+      <point x="328" y="815" />
+      <point x="355" y="787" />
+    </contour>
+    <contour>
+      <point x="471" y="873" />
+      <point x="471" y="796" />
+      <point x="414" y="738" />
+      <point x="336" y="738" />
+      <point x="279" y="796" />
+      <point x="279" y="873" />
+      <point x="336" y="931" />
+      <point x="414" y="931" />
+    </contour>
+  </outline>
+</glyph>

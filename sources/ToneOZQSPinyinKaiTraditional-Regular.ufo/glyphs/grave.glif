@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <unicode hex="0060" />
+  <advance width="614" />
+  <outline>
+    <contour>
+      <point x="177" y="828" type="line" />
+      <point x="168" y="838" />
+      <point x="149" y="835" type="qcurve" />
+      <point x="130" y="833" />
+      <point x="109" y="817" type="qcurve" />
+      <point x="87" y="799" />
+      <point x="90" y="785" type="qcurve" />
+      <point x="91" y="780" />
+      <point x="95" y="776" type="qcurve" />
+      <point x="473" y="441" type="line" />
+      <point x="496" y="421" />
+      <point x="503" y="431" type="qcurve" />
+      <point x="508" y="437" />
+      <point x="508" y="443" type="qcurve" />
+      <point x="507" y="449" />
+      <point x="504" y="452" type="qcurve" />
+    </contour>
+  </outline>
+</glyph>

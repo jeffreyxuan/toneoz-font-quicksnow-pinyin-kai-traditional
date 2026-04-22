@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE51" format="2">
+  <unicode hex="FE51" />
+  <advance width="1024" />
+  <outline>
+    <contour>
+      <point x="555" y="67" />
+      <point x="525" y="28" />
+      <point x="495" y="28" />
+      <point x="482" y="43" type="qcurve" />
+      <point x="433" y="116" />
+      <point x="333" y="210" type="qcurve" />
+      <point x="326" y="217" />
+      <point x="326" y="243" />
+      <point x="343" y="257" />
+      <point x="365" y="257" />
+      <point x="395" y="238" type="qcurve" />
+      <point x="473" y="190" />
+      <point x="545" y="118" type="qcurve" />
+      <point x="555" y="108" />
+    </contour>
+  </outline>
+</glyph>

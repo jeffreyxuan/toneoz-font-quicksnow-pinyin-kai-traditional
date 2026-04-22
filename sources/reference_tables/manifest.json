@@ -1,0 +1,37 @@
+{
+  "format": "otfcc-otd-v1",
+  "build_mode": "static",
+  "table_json_dir": "tables",
+  "cmap_strategy": "from_ufo",
+  "cmap_uvs_json": "cmap_uvs.json",
+  "generated_json": "_tmp/generated_font.otd.json",
+  "effective_json": "_tmp/effective_font.otd.json",
+  "json_merge_tables": [
+    "GSUB",
+    "OS_2",
+    "gasp",
+    "head",
+    "hhea",
+    "maxp",
+    "name",
+    "post",
+    "prep",
+    "cvt_",
+    "fpgm",
+    "vhea"
+  ],
+  "table_tags": [
+    "GSUB",
+    "OS_2",
+    "gasp",
+    "head",
+    "hhea",
+    "maxp",
+    "name",
+    "post",
+    "prep",
+    "cvt_",
+    "fpgm",
+    "vhea"
+  ]
+}
