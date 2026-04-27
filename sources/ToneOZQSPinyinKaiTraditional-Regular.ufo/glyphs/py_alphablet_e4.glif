@@ -3,6 +3,6 @@
   <advance width="569" />
   <outline>
     <component base="py_alphablet_e" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
-    <component base="py_alphablet_src_gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="129" yOffset="0" />
+    <component base="py_alphablet_src_gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="129" yOffset="-11" />
   </outline>
 </glyph>

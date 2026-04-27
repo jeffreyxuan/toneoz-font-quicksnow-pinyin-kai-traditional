@@ -3,9 +3,9 @@
   <unicode hex="6833" />
   <advance width="1024" />
   <outline>
-    <component base="py_alphablet_l" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="151" yOffset="927" />
-    <component base="py_alphablet_a3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="255" yOffset="927" />
-    <component base="py_alphablet_o" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="554" yOffset="927" />
+    <component base="py_alphablet_l" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="157" yOffset="927" />
+    <component base="py_alphablet_a3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="260" yOffset="927" />
+    <component base="py_alphablet_o" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="548" yOffset="927" />
     <component base="uni6833.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

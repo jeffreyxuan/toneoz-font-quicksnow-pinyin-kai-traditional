@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni5402" format="2">
   <unicode hex="5402" />
-  <advance width="1432" />
+  <advance width="1420" />
   <outline>
     <component base="py_alphablet_m" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="30" yOffset="927" />
     <component base="py_alphablet_a2" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="489" yOffset="927" />
-    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="789" yOffset="927" />
-    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="1073" yOffset="927" />
-    <component base="uni5402.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="204" yOffset="0" />
+    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="777" yOffset="927" />
+    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="1062" yOffset="927" />
+    <component base="uni5402.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="198" yOffset="0" />
   </outline>
 </glyph>

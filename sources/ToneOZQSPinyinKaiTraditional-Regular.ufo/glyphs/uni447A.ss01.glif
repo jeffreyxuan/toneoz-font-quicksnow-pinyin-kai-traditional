@@ -2,9 +2,9 @@
 <glyph name="uni447A.ss01" format="2">
   <advance width="1024" />
   <outline>
-    <component base="py_alphablet_f" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="122" yOffset="927" />
-    <component base="py_alphablet_a1" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="297" yOffset="927" />
-    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="597" yOffset="927" />
+    <component base="py_alphablet_f" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="128" yOffset="927" />
+    <component base="py_alphablet_a1" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="303" yOffset="927" />
+    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="591" yOffset="927" />
     <component base="uni447A.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

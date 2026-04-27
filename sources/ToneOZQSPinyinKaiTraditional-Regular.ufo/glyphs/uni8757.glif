@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni8757" format="2">
   <unicode hex="8757" />
-  <advance width="1532" />
+  <advance width="1520" />
   <outline>
     <component base="py_alphablet_h" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="30" yOffset="927" />
     <component base="py_alphablet_u" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="309" yOffset="927" />
     <component base="py_alphablet_a2" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="589" yOffset="927" />
-    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="889" yOffset="927" />
-    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="1173" yOffset="927" />
-    <component base="uni8757.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="254" yOffset="0" />
+    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="877" yOffset="927" />
+    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="1162" yOffset="927" />
+    <component base="uni8757.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="248" yOffset="0" />
   </outline>
 </glyph>

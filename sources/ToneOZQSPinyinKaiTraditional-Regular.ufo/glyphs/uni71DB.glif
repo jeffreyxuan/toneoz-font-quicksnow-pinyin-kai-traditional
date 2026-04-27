@@ -3,10 +3,10 @@
   <unicode hex="71DB" />
   <advance width="1024" />
   <outline>
-    <component base="py_alphablet_j" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="103" yOffset="927" />
-    <component base="py_alphablet_i3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="214" yOffset="927" />
-    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="308" yOffset="927" />
-    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="592" yOffset="927" />
+    <component base="py_alphablet_j" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="-19" yOffset="927" />
+    <component base="py_alphablet_i3" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="112" yOffset="927" />
+    <component base="py_alphablet_n" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="206" yOffset="927" />
+    <component base="py_alphablet_g" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="490" yOffset="927" />
     <component base="uni71DB.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>
