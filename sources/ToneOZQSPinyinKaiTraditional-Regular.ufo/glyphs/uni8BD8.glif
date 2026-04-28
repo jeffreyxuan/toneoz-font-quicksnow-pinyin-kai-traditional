@@ -3,8 +3,8 @@
   <unicode hex="8BD8" />
   <advance width="1024" />
   <outline>
-    <component base="py_alphablet_j" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="389" yOffset="927" />
-    <component base="py_alphablet_i2" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="520" yOffset="927" />
+    <component base="py_alphablet_j" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="381" yOffset="927" />
+    <component base="py_alphablet_i2" xScale="0.52398681640625" xyScale="0" yxScale="0" yScale="0.5250244140625" xOffset="528" yOffset="927" />
     <component base="uni8BD8.ss00" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>
