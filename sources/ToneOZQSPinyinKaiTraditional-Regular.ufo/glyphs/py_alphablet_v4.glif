@@ -2,7 +2,7 @@
 <glyph name="py_alphablet_v4" format="2">
   <advance width="572" />
   <outline>
-    <component base="py_alphablet_src_gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="160" yOffset="147" />
+    <component base="py_alphablet_src_gravecomb" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="160" yOffset="117" />
     <component base="py_alphablet_v" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>

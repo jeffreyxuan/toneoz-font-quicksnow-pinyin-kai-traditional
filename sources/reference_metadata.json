@@ -32,7 +32,6 @@
     "25": []
   },
   "required_tables": [
-    "GDEF",
     "GSUB",
     "OS/2",
     "cmap",

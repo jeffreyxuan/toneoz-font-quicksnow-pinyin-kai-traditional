@@ -2,33 +2,7 @@
 <glyph name="py_alphablet_i1" format="2">
   <advance width="217" />
   <outline>
-    <contour>
-      <point x="13" y="636" type="line" />
-      <point x="-18" y="636" />
-      <point x="-18" y="664" type="qcurve" />
-      <point x="-18" y="692" />
-      <point x="13" y="692" type="qcurve" />
-      <point x="204" y="692" type="line" />
-      <point x="235" y="692" />
-      <point x="235" y="664" type="qcurve" />
-      <point x="235" y="636" />
-      <point x="204" y="636" type="qcurve" />
-    </contour>
-    <contour>
-      <point x="144" y="35" type="line" />
-      <point x="144" y="21" />
-      <point x="123" y="0" />
-      <point x="109" y="0" type="qcurve" />
-      <point x="93" y="0" />
-      <point x="74" y="21" />
-      <point x="74" y="35" type="qcurve" />
-      <point x="74" y="478" type="line" />
-      <point x="74" y="493" />
-      <point x="94" y="513" />
-      <point x="109" y="513" type="qcurve" />
-      <point x="124" y="513" />
-      <point x="144" y="493" />
-      <point x="144" y="478" type="qcurve" />
-    </contour>
+    <component base="py_alphablet_src_uni0304" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="-93" yOffset="55" />
+    <component base="py_alphablet_src_dotlessi" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
   </outline>
 </glyph>
