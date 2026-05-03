@@ -12,7 +12,7 @@ from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._f_v_a_r import NamedInstance
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-GENERATED_TTF = REPO_ROOT / Path("fonts/ToneOZQSPinyinKaiTraditional.ttf")
+GENERATED_TTF = REPO_ROOT / Path("fonts/ToneOZQSPinyinKaiTrad.ttf")
 REFERENCE_TABLES_DIR = REPO_ROOT / "sources" / "reference_tables"
 REFERENCE_METADATA_PATH = REPO_ROOT / "sources" / "reference_metadata.json"
 MANIFEST_PATH = REFERENCE_TABLES_DIR / "manifest.json"

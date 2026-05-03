@@ -8,7 +8,7 @@ from typing import Any
 from fontTools.ttLib import TTFont
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-GENERATED_TTF = REPO_ROOT / Path("fonts/ToneOZQSPinyinKaiTraditional.ttf")
+GENERATED_TTF = REPO_ROOT / Path("fonts/ToneOZQSPinyinKaiTrad.ttf")
 REFERENCE_METADATA = REPO_ROOT / "sources" / "reference_metadata.json"
 MANIFEST_PATH = REPO_ROOT / "sources" / "reference_tables" / "manifest.json"
 
@@ -84,9 +84,18 @@ def extract_generated_summary() -> dict[str, Any]:
             if hasattr(design_axis_record, "Axis"):
                 stat_axes = [{"tag": axis.AxisTag, "ordering": int(axis.AxisOrdering)} for axis in design_axis_record.Axis]
         name_records = {str(name_id): collect_name_values(font, name_id) for name_id in (1, 4, 6, 16, 17, 25)}
+        cmap_format4_size = 0
+        cmap_format12_size = 0
+        for cmap_table in font["cmap"].tables:
+            if cmap_table.platformID == 3 and cmap_table.platEncID == 1 and cmap_table.format == 4:
+                cmap_format4_size = len(cmap_table.cmap or {})
+            if cmap_table.platformID == 3 and cmap_table.platEncID == 10 and cmap_table.format == 12:
+                cmap_format12_size = len(cmap_table.cmap or {})
         return {
             "glyph_count": len(font.getGlyphOrder()),
             "cmap_size": len(font.getBestCmap() or {}),
+            "cmap_format4_size": cmap_format4_size,
+            "cmap_format12_size": cmap_format12_size,
             "family_names": collect_name_values(font, 1),
             "full_names": collect_name_values(font, 4),
             "name_records": name_records,
@@ -106,6 +115,10 @@ def ensure_equivalent(reference: dict[str, Any], generated: dict[str, Any]) -> d
         raise ValidateBuildError("build ?? glyph_count ????????")
     if int(reference["cmap_size"]) != int(generated["cmap_size"]):
         raise ValidateBuildError("build ?? cmap_size ????????")
+    if int(reference.get("cmap_format4_size", 0)) != int(generated.get("cmap_format4_size", 0)):
+        raise ValidateBuildError("build ?? cmap format 4 ????????")
+    if int(reference.get("cmap_format12_size", 0)) != int(generated.get("cmap_format12_size", 0)):
+        raise ValidateBuildError("build ?? cmap format 12 ????????")
     build_mode = str(reference.get("build_mode", "static")).strip().lower()
     if build_mode == "variable":
         if list(reference["axes"]) != list(generated["axes"]):
@@ -140,6 +153,8 @@ def ensure_equivalent(reference: dict[str, Any], generated: dict[str, Any]) -> d
         "success": True,
         "glyph_count": {"expected": int(reference["glyph_count"]), "generated": int(generated["glyph_count"])} ,
         "cmap_size": {"expected": int(reference["cmap_size"]), "generated": int(generated["cmap_size"])},
+        "cmap_format4_size": {"expected": int(reference.get("cmap_format4_size", 0)), "generated": int(generated.get("cmap_format4_size", 0))},
+        "cmap_format12_size": {"expected": int(reference.get("cmap_format12_size", 0)), "generated": int(generated.get("cmap_format12_size", 0))},
         "required_tables": list(reference["required_tables"]),
         "generated_tables": list(generated["tables"]),
         "axes": list(generated["axes"]),

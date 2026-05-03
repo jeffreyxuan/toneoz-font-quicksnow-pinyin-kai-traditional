@@ -33,10 +33,6 @@
 ## 漢字配拼音字體線上展示：  
   請在字型選單中選「快雪」系列：  
   [https://toneoz.com/imez](https://toneoz.com/imez)
-  
-  <img width="1920" height="1080" alt="quicksnow_ime_demo_traditional.jpg" src="./assets/quicksnow_ime_demo_traditional.jpg" />
-
-  <img width="1920" height="1080" alt="quicksnow_ime_demo_simplified.jpg" src="./assets/quicksnow_ime_demo_simplified.jpg" />
 
 ---
 

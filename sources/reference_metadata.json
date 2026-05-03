@@ -1,8 +1,10 @@
 {
   "build_mode": "static",
   "expected_name_token": "Êæ≥ËÅ≤ÈÄöÂø´Èõ™ÊãºÈü≥Ê•∑È´îÁπÅ",
-  "glyph_count": 60569,
+  "glyph_count": 60570,
   "cmap_size": 26225,
+  "cmap_format4_size": 26221,
+  "cmap_format12_size": 26225,
   "family_names": [
     "Êæ≥ËÅ≤ÈÄöÂø´Èõ™ÊãºÈü≥Ê•∑È´îÁπÅ",
     "澳聲通快雪拼音楷體繁",
@@ -25,7 +27,7 @@
       "澳声通快雪拼音楷体繁"
     ],
     "6": [
-      "ToneOZQSPinyinKaiTraditional"
+      "ToneOZQSPinyinKaiTrad"
     ],
     "16": [],
     "17": [],

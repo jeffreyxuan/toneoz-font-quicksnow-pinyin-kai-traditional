@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="py_alphablet_i1" format="2">
-  <advance width="217" />
-  <outline>
-    <component base="py_alphablet_src_uni0304" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="-93" yOffset="55" />
-    <component base="py_alphablet_src_dotlessi" xScale="1" xyScale="0" yxScale="0" yScale="1" xOffset="0" yOffset="0" />
-  </outline>
-</glyph>

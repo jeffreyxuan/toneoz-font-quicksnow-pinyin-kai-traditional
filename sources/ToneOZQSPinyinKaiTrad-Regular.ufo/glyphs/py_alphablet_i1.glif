@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="py_alphablet_i1" format="2">
+  <advance width="217" />
+  <outline>
+    <contour>
+      <point x="3" y="607" type="line" />
+      <point x="-28" y="607" />
+      <point x="-28" y="635" type="qcurve" />
+      <point x="-28" y="662" />
+      <point x="3" y="662" type="qcurve" />
+      <point x="214" y="662" type="line" />
+      <point x="245" y="662" />
+      <point x="245" y="635" type="qcurve" />
+      <point x="245" y="607" />
+      <point x="214" y="607" type="qcurve" />
+    </contour>
+    <contour>
+      <point x="144" y="35" type="line" />
+      <point x="144" y="21" />
+      <point x="123" y="0" />
+      <point x="109" y="0" type="qcurve" />
+      <point x="93" y="0" />
+      <point x="74" y="21" />
+      <point x="74" y="35" type="qcurve" />
+      <point x="74" y="478" type="line" />
+      <point x="74" y="493" />
+      <point x="94" y="513" />
+      <point x="109" y="513" type="qcurve" />
+      <point x="124" y="513" />
+      <point x="144" y="493" />
+      <point x="144" y="478" type="qcurve" />
+    </contour>
+  </outline>
+</glyph>
